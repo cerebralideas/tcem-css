@@ -1,6 +1,6 @@
 # CSS Architecture and Authoring
 
-From an architectural standpoint, CSS authoring needs more rules and conventions in addition to what's defined in most common CSS styleguides. This document will define these rules. If there's a conflict between the UIE guidelines and here, these rules take precedence.
+From an architectural standpoint, CSS authoring needs more rules and conventions in addition to what's defined in most common CSS styleguides. This document will define these rules. If there's a conflict between the general guidelines and here, these rules take precedence.
 
 **Table of contents:**
 
